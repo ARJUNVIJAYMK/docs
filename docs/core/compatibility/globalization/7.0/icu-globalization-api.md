@@ -60,4 +60,5 @@ If you wish to continue using NLS globalization APIs, you can set a [runtime swi
 
 ## See also
 
+- [Best practices for comparing strings in .NET](../../../../standard/base-types/best-practices-strings.md)
 - [Globalization APIs use ICU libraries on Windows 10](../5.0/icu-globalization-api.md)

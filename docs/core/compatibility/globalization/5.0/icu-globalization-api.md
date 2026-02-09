@@ -84,4 +84,5 @@ No action is required on the part of the developer. However, if you wish to cont
 
 ## See also
 
+- [Best practices for comparing strings in .NET](../../../../standard/base-types/best-practices-strings.md)
 - [Globalization APIs use ICU libraries on Windows Server](../7.0/icu-globalization-api.md)
